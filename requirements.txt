@@ -1,0 +1,9 @@
+streamlit>=1.45
+numpy>=1.26
+pandas>=2.1
+pillow>=10
+plotly>=5.22
+onnxruntime>=1.17
+scikit-image>=0.22
+pydicom>=2.4
+reportlab>=4.0
